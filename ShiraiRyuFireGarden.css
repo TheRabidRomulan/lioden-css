@@ -13,7 +13,7 @@
 /* BACKGROUND */
 
 body {
-	background: url('https://imgur.com/zlO5iEd') center center fixed;
+	background: url('https://i.imgur.com/zlO5iEd.png') center center fixed;
 	background-size: 100%;
 	font-family: 'Aboreto', cursive;;
 	color: #000000;
@@ -408,7 +408,7 @@ table#player img {
 /* LIODEN LOGO REPLACER */
 
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
-	content: url('https://imgur.com/NgHG1VW');
+	content: url('https://i.imgur.com/NgHG1VW.png');
 }
 
 
@@ -422,7 +422,7 @@ div.cave-grid>img {
 /* CAVES (Copy paste to add more) */
 
 a[href$="CAVE ID HERE"]>div.cave-grid>img {
-	content: url('https://imgur.com/emCRuPG')!important;
+	content: url('https://i.imgur.com/emCRuPG.png')!important;
 }
 
 
