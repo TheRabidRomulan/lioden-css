@@ -16,14 +16,14 @@ body {
 	background: url('https://i.imgur.com/zlO5iEd.png') center center fixed;
 	background-size: 100%;
 	font-family: 'Aboreto', cursive;;
-	color: #000000;
+	color: #FFFFFF;
 }
 
 
 /* FEED ALL, PLAY ALL */
 
 .feature {
-	background: rgba(0, 0, 0, 0.6) !important;
+	background: rgba(255, 255, 255, 0.6) !important;
 	color: #000000 !important;
 	border: none !important;
 	border-radius: 5px !important;
@@ -56,7 +56,7 @@ body {
 /* NAVBAR HOVER COLOR */
 
 .navbar li a:hover {
-	background: rgba(0, 0, 0, 0.6) !important;
+	background: rgba(255, 255, 255, 0.9) !important;
 }
 
 
@@ -64,7 +64,7 @@ body {
 
 /* RIGHT SIDE */
 .container.main {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(218, 225, 209, 0.21);
 	border: none;
 	box-shadow: none;
 	border-radius: 5px;
@@ -79,7 +79,7 @@ body {
 /* BREADCRUMB (Home / Den) */
 
 .breadcrumb {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(218, 225, 209, 0.21);
 }
 
 .breadcrumb .active {
@@ -90,14 +90,14 @@ body {
 /* ALERTS (ie. "Your lionesses have returned from hunting!") */
 
 .alert {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(218, 225, 209, 0.21);
 	border: none;
 	color: #000000;
 }
 
 .alert-warning,
 .alert-danger {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(218, 225, 209, 0.21);
 	color: #000000;
 }
 
@@ -106,7 +106,7 @@ body {
 
 .feature,
 div.left {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(218, 225, 209, 0.21);
 	border: none;
 }
 
@@ -114,7 +114,7 @@ div.left {
 /* ENERGY BARS, ACHIEVEMENTS, & BOOKMARKS */
 
 .panel {
-	background: rgba(0, 0, 0, 0.6) !important;
+	background: rgba(218, 225, 209, 0.21) !important;
 	box-shadow: none !important;
 	border: none !important;
 	color: #000000 !important;
@@ -122,7 +122,7 @@ div.left {
 
 /* ENERGY BAR BACKGROUND */
 .progress {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(218, 225, 209, 0.21);
 	color: #000000 !important;
 }
 
@@ -133,7 +133,7 @@ div.left {
 
 /* ENERGY BAR COLOR */
 .progress-bar {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(218, 225, 209, 0.21);
 	color: #000000 !important;
 }
 
