@@ -19,7 +19,7 @@ body {
 /* WELCOME BACK */
  
 .navbar-status, .navbar-expand {
-    background: #000000 !important;
+    background: #1a1919 !important;
     color: #f1eaf9 !important;
 }
  
@@ -52,8 +52,8 @@ th {
 /* CAVE NAME BAR */
  
 th.top {
-    background: #000000 !important;
-    color: #000000 !important;
+    background: #272525 !important;
+    color: #f0e6e6 !important;
     border-top-left-radius: 10px !important;
     border-top-right-radius: 10px !important;
 }
@@ -61,26 +61,26 @@ th.top {
 /* ALERTS */
  
 .alert {
-    background: rgba(14, 14, 14);
+    background: rgb(29, 28, 28);
     border: none;
-    color: #000000;
+    color: #f1ecec;
 }
  
 .alert-warning,
 .alert-danger {
-    background: rgba(14, 14, 14);
-    color: #000000;
+    background: rgba(29, 28, 28);
+    color: #f1ecec;
 }
  
 /* LINKS & LINK HOVER COLOR */
  
 a:link,
 a:visited {
-    color: #4a414a !important;
+    color: #0b78f5 !important;
 }
  
 a:hover {
-    color: ##ede7f8 !important;
+    color: #ede7f8 !important;
 }
  
 /* Dropdown Options */
@@ -93,7 +93,7 @@ textarea {
     border-color: black;
     border-radius: 5px;
     box-shadow: none !important;
-    color: black !important;
+    color: rgb(243, 234, 234) !important;
     text-shadow: none !important;
 }
  
@@ -114,14 +114,14 @@ textarea {
 /* SCROLL BAR (Scrolling thing) */
  
 ::-webkit-scrollbar-thumb {
-    background: ##f1eaf9;
+    background: #f1eaf9;
     border-radius: 4px;
 }
  
 /* TOPBAR (Names, Messages, Modbox+Terms of Service, Code of Conduct section) */
  
 #header .navbar-status{
-    background: rgb(14,14,14);
+    background: rgb(17, 17, 17);
     border: none;
     border-top: none;
     color: #f1eaf9;
@@ -133,7 +133,7 @@ textarea {
     background: rgb(14,14,14);
     border-bottom: none;
     font-family: FONT
-    color: #000000;
+    color: #f1eaf9;
     border-radius: 5px;
 }
  
@@ -150,7 +150,7 @@ div.progress {
 /* PROGRESS BARS */
  
 div.progress-bar {
-    background: ##f1577c!important;
+    background: #f1577c!important;
 }
  
  
