@@ -1,0 +1,183 @@
+/* CSS Layout+Codes made by Pandora #11809
+Codes may be edited, used in commissions or for personal use
+Please do not remove credit
+*/
+ 
+/* FONT */
+ 
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap" rel="stylesheet" ');
+ 
+/* BACKGROUND/CHAT BACKGROUND */
+ 
+body {
+    background: url('https://astrodoc.ca/wp-content/uploads/2019/12/Horshead-and-Flame-11hr40m-OSC-web.jpg') center center fixed;
+    background-size: 100%;
+    font-family: FONT
+    color: #ede7f8;
+}
+ 
+/* WELCOME BACK */
+ 
+.navbar-status, .navbar-expand {
+    background: #000000 !important;
+    color: #f1eaf9 !important;
+}
+ 
+/* PANEL BACKGROUND COLOR */
+.table {
+    background: rgb(225,75,75);
+    border: none !important;
+    border-collapse: separate;
+    border-radius: 5px;
+}
+ 
+/* HEADERS COLOR ( Leader+Cave Headers ) */
+.top,
+.bottom,
+th {
+    background: rgb(225,75,75) !important;
+    color: #f1eaf9 !important;
+    border-radius: 5px;
+}
+ 
+/* NAVBAR (DEN, CROSSROADS, HOARD) */
+ 
+.navbar-main {
+    background: #212021 !important;
+    color: #ede7f8 !important;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+ 
+/* CAVE NAME BAR */
+ 
+th.top {
+    background: #000000 !important;
+    color: #000000 !important;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+ 
+/* ALERTS */
+ 
+.alert {
+    background: rgba(14, 14, 14);
+    border: none;
+    color: #000000;
+}
+ 
+.alert-warning,
+.alert-danger {
+    background: rgba(14, 14, 14);
+    color: #000000;
+}
+ 
+/* LINKS & LINK HOVER COLOR */
+ 
+a:link,
+a:visited {
+    color: #4a414a !important;
+}
+ 
+a:hover {
+    color: ##ede7f8 !important;
+}
+ 
+/* Dropdown Options */
+ 
+input,
+select,
+textarea {
+    background: rgb(225,75,75) !important;
+    border: none !important;
+    border-color: black;
+    border-radius: 5px;
+    box-shadow: none !important;
+    color: black !important;
+    text-shadow: none !important;
+}
+ 
+/* SCROLL BAR */
+ 
+::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+}
+ 
+ 
+/* SCROLL BAR BACKGROUND */
+ 
+::-webkit-scrollbar-track {
+    background: none;
+}
+ 
+/* SCROLL BAR (Scrolling thing) */
+ 
+::-webkit-scrollbar-thumb {
+    background: ##f1eaf9;
+    border-radius: 4px;
+}
+ 
+/* TOPBAR (Names, Messages, Modbox+Terms of Service, Code of Conduct section) */
+ 
+#header .navbar-status{
+    background: rgb(14,14,14);
+    border: none;
+    border-top: none;
+    color: #f1eaf9;
+    border-radius: 5px;
+    font-family: FONT
+}
+ 
+.navbar {
+    background: rgb(14,14,14);
+    border-bottom: none;
+    font-family: FONT
+    color: #000000;
+    border-radius: 5px;
+}
+ 
+.navbar li a {
+    color: #000000 !important;
+}
+ 
+/* PROGRESS BAR BACKGROUND */
+ 
+div.progress {
+    background: none!important;
+}
+ 
+/* PROGRESS BARS */
+ 
+div.progress-bar {
+    background: ##f1577c!important;
+}
+ 
+ 
+/* PACK DYNASTY */
+img[src$="packdynasty.png"] {
+    content:url('https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/embed/public/2018/01/22/eagle-nebula.jpg')!important;
+    width:185px!important;
+ 
+}
+ 
+/* NESTING */
+img[src$="nesting.png"] {
+    content:url('https://i.redd.it/xajbe0nmhwl41.jpg')!important;
+    width:185px!important;
+ 
+}
+ 
+/* OVERVIEW */
+img[src$="packoverview.png"] {
+    content:url('https://th.bing.com/th/id/R.ce9020724ca52f07435ad18dcc15dee8?rik=941MQoOMoZdI7g&riu=http%3a%2f%2fapod.nasa.gov%2fapod%2fimage%2f1305%2fngc6960_FinalPugh.jpg')!important;
+    width:185px!important;
+ 
+}
+ 
+/* BREEDING */
+img[src$="breeding.png"] {
+    content:url('https://astrodonimaging.com/wp-content/uploads/2010/08/PacManR2Web.jpg')!important;
+    width:185px!important;
+ 
+}
