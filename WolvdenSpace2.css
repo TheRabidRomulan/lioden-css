@@ -5,14 +5,14 @@ Please do not remove credit
  
 /* FONT */
  
-@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap" rel="stylesheet" ');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet" ');
  
 /* BACKGROUND/CHAT BACKGROUND */
  
 body {
     background: url('https://astrodoc.ca/wp-content/uploads/2019/12/Horshead-and-Flame-11hr40m-OSC-web.jpg') center center fixed;
     background-size: 100%;
-    font-family: FONT
+    font-family: 'Bebas Neue', sans-serif;
     color: #ede7f8;
 }
  
@@ -25,7 +25,7 @@ body {
  
 /* PANEL BACKGROUND COLOR */
 .table {
-    background: rgb(225,75,75);
+    background: rgba(225,75,75,0.3);
     border: none !important;
     border-collapse: separate;
     border-radius: 5px;
@@ -35,7 +35,7 @@ body {
 .top,
 .bottom,
 th {
-    background: rgb(225,75,75) !important;
+    background: rgba(225,75,75,0.3) !important;
     color: #f1eaf9 !important;
     border-radius: 5px;
 }
@@ -61,14 +61,14 @@ th.top {
 /* ALERTS */
  
 .alert {
-    background: rgb(29, 28, 28);
+    background: rgba(29, 28, 28,0.5);
     border: none;
     color: #f1ecec;
 }
  
 .alert-warning,
 .alert-danger {
-    background: rgba(29, 28, 28);
+    background: rgba(29, 28, 28,0.5);
     color: #f1ecec;
 }
  
@@ -76,11 +76,11 @@ th.top {
  
 a:link,
 a:visited {
-    color: #0b78f5 !important;
+    color: #dfdfe3 !important;
 }
  
 a:hover {
-    color: #ede7f8 !important;
+    color: #596e90 !important;
 }
  
 /* Dropdown Options */
@@ -108,7 +108,7 @@ textarea {
 /* SCROLL BAR BACKGROUND */
  
 ::-webkit-scrollbar-track {
-    background: none;
+    background: #000000;
 }
  
 /* SCROLL BAR (Scrolling thing) */
@@ -121,18 +121,18 @@ textarea {
 /* TOPBAR (Names, Messages, Modbox+Terms of Service, Code of Conduct section) */
  
 #header .navbar-status{
-    background: rgb(17, 17, 17);
+    background: rgba(17, 17, 17,0.5);
     border: none;
     border-top: none;
     color: #f1eaf9;
     border-radius: 5px;
-    font-family: FONT
+    font-family: 'Bebas Neue', sans-serif;
 }
  
 .navbar {
     background: rgb(14,14,14);
     border-bottom: none;
-    font-family: FONT
+    font-family:'Bebas Neue', sans-serif;
     color: #f1eaf9;
     border-radius: 5px;
 }
