@@ -88,12 +88,12 @@ a:hover {
 input,
 select,
 textarea {
-    background: rgb(225,75,75) !important;
+    background: rgba(225,75,75,0.8) !important;
     border: none !important;
     border-color: black;
     border-radius: 5px;
     box-shadow: none !important;
-    color: rgb(243, 234, 234) !important;
+    color: rgba(243, 234, 234,0.8) !important;
     text-shadow: none !important;
 }
  
@@ -130,7 +130,7 @@ textarea {
 }
  
 .navbar {
-    background: rgb(14,14,14);
+    background: rgba(14,14,14,0.8);
     border-bottom: none;
     font-family:'Bebas Neue', sans-serif;
     color: #f1eaf9;
