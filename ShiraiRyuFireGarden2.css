@@ -24,7 +24,7 @@ body {
 
 .feature {
 	background: rgba(0, 0, 0, 0.6) !important;
-	color: #000000 !important;
+	color: #5E7E86 !important;
 	border: none !important;
 	border-radius: 5px !important;
 }
@@ -36,15 +36,15 @@ body {
 	background: rgba(0, 0, 0, 0.6);
 	border: none;
 	border-top: none;
-	color: #000000;
+	color: #5E7E86;
 	border-radius: 5px;
-	font-family: 'Aboreto', cursive;;
+	font-family: 'Tulpen One', cursive;
 }
 
 .navbar {
 	background: rgba(31, 42, 46, 0.6);
 	border-bottom: none;
-	font-family: 'Aboreto', cursive;;
+	font-family: 'Tulpen One', cursive;
 	color: #000000;
 	border-radius: 5px;
 }
