@@ -8,15 +8,15 @@
 
 /* FONT (From Google Fonts) */
 
-@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tulpen+One&display=swap');
 
 /* BACKGROUND */
 
 body {
 	background: url('https://i.imgur.com/chgDaW0.jpg') center center fixed;
 	background-size: 100%;
-	font-family: 'Aboreto', cursive;;
-	color: #000000;
+	font-family: 'Tulpen One', cursive;
+	color: #B9BCA6;
 }
 
 
