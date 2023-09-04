@@ -23,7 +23,7 @@ body {
 /* FEED ALL, PLAY ALL */
 
 .feature {
-	background: rgba(0, 0, 0, 0.6) !important;
+	background: rgba(230, 255, 255, 0.6) !important;
 	color: #5E7E86 !important;
 	border: none !important;
 	border-radius: 5px !important;
@@ -33,7 +33,7 @@ body {
 /* TOPBAR ("Welcome back, ___"), NAVBAR (Den/Crossroads/Etc.) */
 
 .topbar {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(230, 255, 255, 0.6);
 	border: none;
 	border-top: none;
 	color: #5E7E86;
