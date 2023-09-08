@@ -36,7 +36,7 @@ body {
 	background: rgba(230, 255, 255, 0.6);
 	border: none;
 	border-top: none;
-	color: #5E7E86;
+	color: #1F2A2E;
 	border-radius: 5px;
 	font-family: 'Tulpen One', cursive;
 }
@@ -45,12 +45,12 @@ body {
 	background: rgba(31, 42, 46, 0.6);
 	border-bottom: none;
 	font-family: 'Tulpen One', cursive;
-	color: #000000;
+	color: #779390;
 	border-radius: 5px;
 }
 
 .navbar li a {
-	color: #000000 !important;
+	color: #5E7E86 !important;
 }
 
 /* NAVBAR HOVER COLOR */
@@ -64,7 +64,7 @@ body {
 
 /* RIGHT SIDE */
 .container.main {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(31, 42, 46, 0.6);
 	border: none;
 	box-shadow: none;
 	border-radius: 5px;
@@ -79,7 +79,7 @@ body {
 /* BREADCRUMB (Home / Den) */
 
 .breadcrumb {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(31, 42, 46, 0.6);
 }
 
 .breadcrumb .active {
@@ -106,7 +106,7 @@ body {
 
 .feature,
 div.left {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(31, 42, 46, 0.6);
 	border: none;
 }
 
@@ -193,7 +193,7 @@ h2 {
 /* SMALL HEADER */
 
 h3 {
-	color: #000000 !important;
+	color: #B9BCA6 !important;
 	font-size: 14px !important
 }
 
@@ -203,7 +203,7 @@ h3 {
 
 /* PANEL BACKGROUND COLOR */
 .table {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(31, 42, 46, 0.6);
 	border: none !important;
 	border-collapse: separate;
 	border-radius: 5px;
@@ -415,14 +415,14 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 /* PREGNANT LIONESSES */
 
 div.cave-grid>img {
-	content: url('https://puu.sh/EJV1D/dfefa228df.png')!important;
+	content: url('https://i.imgur.com/WW9pCdZ.png')!important;
 }
 
 
 /* CAVES (Copy paste to add more) */
 
 a[href$="CAVE ID HERE"]>div.cave-grid>img {
-	content: url('https://i.imgur.com/emCRuPG.png')!important;
+	content: url('https://i.imgur.com/TJPjqoe.png')!important;
 }
 
 
