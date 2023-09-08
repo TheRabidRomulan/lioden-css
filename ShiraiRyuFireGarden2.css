@@ -24,7 +24,7 @@ body {
 
 .feature {
 	background: rgba(230, 255, 255, 0.6) !important;
-	color: #5E7E86 !important;
+	color: #B9BCA6 !important;
 	border: none !important;
 	border-radius: 5px !important;
 }
@@ -36,7 +36,7 @@ body {
 	background: rgba(230, 255, 255, 0.6);
 	border: none;
 	border-top: none;
-	color: #1F2A2E;
+	color: #B9BCA6;
 	border-radius: 5px;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
@@ -45,7 +45,7 @@ body {
 	background: rgba(94, 126, 134, 0.6);
 	border-bottom: none;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
-	color: #779390;
+	color: #B9BCA6;
 	border-radius: 5px;
 }
 
@@ -83,7 +83,7 @@ body {
 }
 
 .breadcrumb .active {
-	color: #5E7E86;
+	color: #B9BCA6;
 }
 
 
@@ -92,13 +92,13 @@ body {
 .alert {
 	background: rgba(0, 72, 186, 0.6);
 	border: none;
-	color: #000000;
+	color: #B9BCA6;
 }
 
 .alert-warning,
 .alert-danger {
 	background: rgba(230, 255, 255, 0.6);
-	color: #000000;
+	color: #B9BCA6;
 }
 
 
@@ -117,13 +117,13 @@ div.left {
 	background: rgba(0, 0, 0, 0.6) !important;
 	box-shadow: none !important;
 	border: none !important;
-	color: #000000 !important;
+	color: #B9BCA6 !important;
 }
 
 /* ENERGY BAR BACKGROUND */
 .progress {
 	background: rgba(0, 0, 0, 0.6);
-	color: ##1F2A2E !important;
+	color: #B9BCA6 !important;
 }
 
 /* ENERGY BAR TEXT */
@@ -134,7 +134,7 @@ div.left {
 /* ENERGY BAR COLOR */
 .progress-bar {
 	background: rgba(0, 0, 0, 0.6);
-	color: #000000 !important;
+	color: #B9BCA6 !important;
 }
 
 
@@ -153,7 +153,7 @@ div.left {
 /* PINNED MESSAGE */
 .s-chat-message__pinned {
 	background: #000000 !important;
-	color: #000000 !important;
+	color: #B9BCA6 !important;
 	border: none !important;
 }
 
@@ -215,7 +215,7 @@ h3 {
 .bottom,
 th {
 	background: rgba(0, 72, 186, 0.6) !important;
-	color: #000000 !important;
+	color: #B9BCA6 !important;
 	border-radius: 5px;
 }
 
@@ -264,7 +264,7 @@ textarea {
 
 .item-header {
 	background: rgba(31, 42, 46, 0.6) !important;
-	color: #000000  !important;
+	color: #B9BCA6  !important;
 }
 
 .item {
@@ -318,7 +318,7 @@ a:hover {
 .Box1 {
 	float: left;
 	background: rgba(0, 0, 0, 0.6);
-	color: #000000 ;
+	color: #B9BCA6 ;
 	padding: 15px;
 	border: none;
 	border-radius: 5px;
@@ -338,7 +338,7 @@ a:hover {
 .Box2 {
 	float: left;
 	background: rgba(0, 0, 0, 0.6);
-	color: #000000 ;
+	color: #B9BCA6 ;
 	padding: 15px;
 	border: none;
 	border-radius: 5px;
