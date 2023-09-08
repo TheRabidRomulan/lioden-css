@@ -223,7 +223,7 @@ th {
 /* Block of color where "Territory Description, Player Name, Avatar URL" etc. are */
 
 .table .left {
-	background: rgba(0, 0, 0, 0.6)
+	background: rgba(31, 42, 46, 0.6)
 }
 
 /* Affects the color behind your territory description, player name, etc. */
@@ -231,7 +231,7 @@ th {
 input,
 select,
 textarea {
-	background: rgba(0, 0, 0, 0.6) !important;
+	background: rgba(31, 42, 46, 0.6) !important;
 	border: none !important;
 	border-color: black;
 	border-radius: 5px;
@@ -244,14 +244,14 @@ textarea {
 /* Color behind "Level, Stats, Branch, Territory" etc. */
 
 .inner-table .left {
-	background: rgba(0, 0, 0, 0.6) !important;
+	background: rgba(31, 42, 46, 0.6) !important;
 }
 
 
 /* Color behind the number of all of the things above */
 
 .inner-table .right {
-	background: rgba(0, 0, 0, 0.6)
+	background: rgba(31, 42, 46, 0.6)
 }
 
 /* IGNORE */
@@ -263,7 +263,7 @@ textarea {
 /* ACCOUNT OPTIONS PANELS  (Friend Requests Toggles, etc.) */
 
 .item-header {
-	background: rgba(0, 0, 0, 0.6) !important;
+	background: rgba(31, 42, 46, 0.6) !important;
 	color: #000000  !important;
 }
 
@@ -276,7 +276,7 @@ textarea {
 /* BEETLE MOUND TOPBAR (Where it says Beetle Training Grounds, Beetle Battling, etc.) */
 
 .sub_menu {
-	background: rgba(0, 0, 0, 0.6) !important;
+	background: rgba(31, 42, 46, 0.6) !important;
 }
 
 .sub_menu_item_selected {
@@ -288,7 +288,7 @@ textarea {
 
 .cave-grid,
 .mound-grid {
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(31, 42, 46, 0.6);
 	border: none !important;
 }
 
@@ -297,11 +297,11 @@ textarea {
 
 a:link,
 a:visited {
-	color: #000000 !important;
+	color: #B9BCA6 !important;
 }
 
 a:hover {
-	color: #000000 !important;
+	color: #AF002A !important;
 }
 
 
@@ -367,14 +367,14 @@ a:hover {
 /* SCROLL BAR BACKGROUND */
 
 ::-webkit-scrollbar-track {
-	background: #000000;
+	background: #1F2A2E;
 }
 
 
 /* SCROLL BAR "THUMB" */
 
 ::-webkit-scrollbar-thumb {
-	background: #000000;
+	background: #779390;
 	border-radius: 4px;
 }
 
@@ -429,14 +429,14 @@ a[href$="CAVE ID HERE"]>div.cave-grid>img {
 /* UNSORTED */
 
 a[href$="unsorted.php?id=USERID"]>div.cave-grid>img {
-	content: url('IMAGE URL HERE')!important;
+	content: url('https://i.imgur.com/Jck9QRY.png')!important;
 }
 
 
 /* PRIDE OVERVIEW */
 
 a[href$="lionoverview.php?id=USERID"]>div.cave-grid>img {
-	content: url('IMAGE URL HERE')!important;
+	content: url('https://i.imgur.com/fkh7RMo.png')!important;
 }
 
 
