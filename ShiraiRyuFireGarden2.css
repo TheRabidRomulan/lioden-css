@@ -415,7 +415,7 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 /* PREGNANT LIONESSES */
 
 div.cave-grid>img {
-	content: url('https://i.imgur.com/WW9pCdZ.png')!important;
+	content: url('')!important;
 }
 
 
@@ -434,14 +434,14 @@ a[href$="275356"]>div.cave-grid>img {
 
 /* UNSORTED */
 
-a[href$="unsorted.php?id=USERID"]>div.cave-grid>img {
+a[href$="unsorted.php?id=250638"]>div.cave-grid>img {
 	content: url('https://i.imgur.com/Jck9QRY.png')!important;
 }
 
 
 /* PRIDE OVERVIEW */
 
-a[href$="lionoverview.php?id=USERID"]>div.cave-grid>img {
+a[href$="lionoverview.php?id=250638"]>div.cave-grid>img {
 	content: url('https://i.imgur.com/fkh7RMo.png')!important;
 }
 
