@@ -421,8 +421,14 @@ div.cave-grid>img {
 
 /* CAVES (Copy paste to add more) */
 
-a[href$="CAVE ID HERE"]>div.cave-grid>img {
+a[href$="194276"]>div.cave-grid>img {
 	content: url('https://i.imgur.com/TJPjqoe.png')!important;
+	
+a[href$="271759"]>div.cave-grid>img {
+	content: url('https://i.imgur.com/WW9pCdZ.png')!important;
+
+a[href$="275356"]>div.cave-grid>img {
+	content: url('https://i.imgur.com/Jck9QRY.png')!important;
 }
 
 
