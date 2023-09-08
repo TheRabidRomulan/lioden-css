@@ -141,7 +141,7 @@ div.left {
 /* CHAT */
 
 .s-chat-message:nth-child(even) {
-	background: #B9BCA6 !important;
+	background: #779390 !important;
 	border: none !important;
 }
 
@@ -175,7 +175,7 @@ button#label_currentChannel {
 /* BIGGEST HEADER ("___"'s DEN) */
 
 h1 {
-	color: #1F2A2E;
+	color: #B9BCA6;
 	font-size: 72px;
 	text-align: center;
 }
