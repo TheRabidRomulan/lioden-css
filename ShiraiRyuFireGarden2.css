@@ -414,12 +414,9 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 
 /* PREGNANT LIONESSES */
 
-div.cave-grid>img {
-	content: url('https://puu.sh/EJV1D/dfefa228df.png')!important;
+div.cave-grid>img /* Pregnant Lionesses */ {
+	content: url('https://i.imgur.com/zxG3nDD.png') !important
 }
-
-
-/* CAVES (Copy paste to add more) */
 
 a[href$="194276"]>div.cave-grid>img {
 	content: url('https://i.imgur.com/TJPjqoe.png')!important;
@@ -428,23 +425,16 @@ a[href$="271759"]>div.cave-grid>img {
 	content: url('https://i.imgur.com/WW9pCdZ.png')!important;
 
 a[href$="275356"]>div.cave-grid>img {
-	content: url('https://i.imgur.com/Jck9QRY.png')!important;
+	content: url('https://i.imgur.com/WW9pCdZ.png')!important;
 }
 
-
-/* UNSORTED */
-
-a[href$="unsorted.php?id=250638"]>div.cave-grid>img {
-	content: url('https://i.imgur.com/Jck9QRY.png')!important;
+a[href$="lionoverview.php?id=250638"]>div.cave-grid>img /* Pride Overview */ {
+	content: url('https://i.imgur.com/Jck9QRY.png') !important
 }
 
-
-/* PRIDE OVERVIEW */
-
-a[href$="lionoverview.php?id=250638"]>div.cave-grid>img {
-	content: url('https://i.imgur.com/fkh7RMo.png')!important;
+a[href$="unsorted.php?id=250638"]>div.cave-grid>img /* Unsorted */ {
+	content: url('https://i.imgur.com/kuwSu7F.png') !important
 }
-
 
 /* MOUNDS */
 
