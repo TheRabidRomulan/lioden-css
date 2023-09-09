@@ -411,6 +411,11 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 	content: url('https://i.imgur.com/X6sMayC.png');
 }
 
+div.cave-grid>img /* Pregnant Lionesses */ {
+	content: url('https://i.imgur.com/zxG3nDD.png') !important
+}
+
+
 a[href$="194276"]>div.cave-grid>img {
 	content: url('https://i.imgur.com/TJPjqoe.png')!important;
 	
