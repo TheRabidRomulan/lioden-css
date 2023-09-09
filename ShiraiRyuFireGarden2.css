@@ -411,13 +411,6 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 	content: url('https://i.imgur.com/X6sMayC.png');
 }
 
-
-/* PREGNANT LIONESSES */
-
-div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('https://i.imgur.com/zxG3nDD.png') !important
-}
-
 a[href$="194276"]>div.cave-grid>img {
 	content: url('https://i.imgur.com/TJPjqoe.png')!important;
 	
@@ -434,6 +427,12 @@ a[href$="lionoverview.php?id=250638"]>div.cave-grid>img /* Pride Overview */ {
 
 a[href$="unsorted.php?id=250638"]>div.cave-grid>img /* Unsorted */ {
 	content: url('https://i.imgur.com/kuwSu7F.png') !important
+}
+
+/* PREGNANT LIONESSES */
+
+div.cave-grid>img /* Pregnant Lionesses */ {
+	content: url('https://i.imgur.com/zxG3nDD.png') !important
 }
 
 /* MOUNDS */
